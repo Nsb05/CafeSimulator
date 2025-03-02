@@ -2,6 +2,7 @@
 Hi, this is a beginner level project/prototype about a digital cafe simulator with dynamic features
 
 🔹 Enhancements to Make It an Intermediate-Level Project
+
 1️⃣ Better Seat Reservation System
 ✅ Implement persistent seat reservations (e.g., store reservations in a file or database so they are saved between program runs).
 ✅ Add a cancel reservation option.
